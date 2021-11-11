@@ -1,16 +1,18 @@
 # Real-time-Translator
-Web app to remove barriers between languages
-#Features
-Uses Express as the application Framework.
-Manages Sessions using express-session package.
-Authenticates via username and password using Joi and Jsonwebtoken.
-Passwords are hashed using bcrypt-nodejs package.
-Real-time communication between a client and a server using Socket.io.
-Uses MongoDB, Mongoose for storing and querying data.
-Logging Errors and Exceptions using Winston.
+ Web app to remove barriers between languages
+
+# Features
+
+	Uses Express as the application Framework.
+	Manages Sessions using express-session package.
+	Authenticates via username and password using Joi and Jsonwebtoken.
+	Passwords are hashed using bcrypt-nodejs package.
+	Real-time communication between a client and a server using Socket.io.
+	Uses MongoDB, Mongoose for storing and querying data.
+	Logging Errors and Exceptions using Winston.
 
 
-#Dependencies:
+# Dependencies:
 
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
