@@ -1,5 +1,6 @@
 # Real-time-Translator
 Dependencies:
+
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "config": "^3.3.6",
