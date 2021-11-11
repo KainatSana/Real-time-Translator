@@ -1,4 +1,4 @@
-# Real-time-Translator
+# Real-time-Translator :woman_technologist:
  Web app to remove barriers between languages
 
 # Features
