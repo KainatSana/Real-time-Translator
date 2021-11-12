@@ -3,7 +3,7 @@
 
 # Features
 
-	:black_medium_small_square:Uses Express as the application Framework.
+	Uses Express as the application Framework :black_medium_small_square:
 	Authenticates via username and password using Joi and Jsonwebtoken.
 	Passwords are hashed using bcrypt-nodejs package.
 	Real-time communication between a client and a server using Socket.io.
