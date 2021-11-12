@@ -1,14 +1,13 @@
 # Real-time-Translator :woman_technologist:
  Web app to remove barriers between languages
-
 # Features
 
-	Uses Express as the application Framework :black_medium_small_square:
-	Authenticates via username and password using Joi and Jsonwebtoken.
-	Passwords are hashed using bcrypt-nodejs package.
-	Real-time communication between a client and a server using Socket.io.
-	Uses MongoDB, Mongoose for storing and querying data.
-	Logging Errors and Exceptions using Winston.
+:black_medium_small_square: Uses Express as the application Framework 
+:black_medium_small_square:Authenticates via username and password using Joi and Jsonwebtoken.
+:black_medium_small_square:Passwords are hashed using bcrypt-nodejs package.
+:black_medium_small_square:Real-time communication between a client and a server using Socket.io.
+:black_medium_small_square:Uses MongoDB, Mongoose for storing and querying data.
+:black_medium_small_square:Logging Errors and Exceptions using Winston.
 
 
 # Dependencies:
